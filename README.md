@@ -2,7 +2,7 @@
 Projekt systemu wbudowanego do pomiaru napięcia, prądu oraz mocy czynnej, biernej i pozornej z wykorzystaniem układu CS5490 oraz mikrokontrolera STM32F103C8. 
 
 <p align="center">
-src="https://github.com/Aft3r/Single-Phase-Power-Meter/assets/64914834/3beff02b-c6ea-4c6b-992f-80e76e4981f3" />
+  <img src="https://github.com/Aft3r/Single-Phase-Power-Meter/assets/64914834/3beff02b-c6ea-4c6b-992f-80e76e4981f3" />
 </p>
 
 Schemat blokowy przedstawiający główne komponenty urządzenia:
